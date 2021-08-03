@@ -4,7 +4,7 @@
 
 $servername = 'localhost';
 $username = 'root';
-$password = '';
+$password = ''; 
 $db = 'randomizelinks';
 
 $conn = new mysqli($servername, $username, $password, $db);
